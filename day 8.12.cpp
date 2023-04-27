@@ -30,11 +30,8 @@ class Data{
 			
 				
 			cout<<"Name		:"<<s_name<<endl;
-			
 			cout<<"Account Number  :"<<s_acc_no<<endl;
-			
 			cout<<"Phone Number    :"<<s_phone<<endl;
-			
 			cout<<"E-mail    	:"<<s_mail<<endl;
 						
 		}
@@ -86,11 +83,6 @@ int main (){
 	cout<<"--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- -"<<endl;
 	
 	
-	
-	
-	
-	
-	
-	
+
 	return 0 ;
 }
